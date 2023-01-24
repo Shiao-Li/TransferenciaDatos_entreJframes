@@ -12,7 +12,10 @@ public class FormularioUno {
         JFrame frame1 = new JFrame("Formulario 1");
         frame1.setContentPane(new FormularioUno().Formulario1);
         frame1.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame1.setVisible(true);
         frame1.pack();
+        frame1.setSize(300, 300);
+        frame1.setLocationRelativeTo(null);
+        frame1.setVisible(true);
+
     }
 }

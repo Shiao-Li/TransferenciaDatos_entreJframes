@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d43c9b7-1b8f-4e4c-b435-fc6afdb79210" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="2d43c9b7-1b8f-4e4c-b435-fc6afdb79210" name="Changes" comment="Primer formulario">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FormularioUno.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/FormularioUno.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FormularioUno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FormularioUno.java" afterDir="false" />
@@ -55,11 +54,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674575803099</updated>
-      <workItem from="1674575804360" duration="815000" />
+      <workItem from="1674575804360" duration="1126000" />
     </task>
+    <task id="LOCAL-00001" summary="Primer formulario">
+      <created>1674576772465</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674576772465</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primer formulario" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primer formulario" />
   </component>
 </project>
