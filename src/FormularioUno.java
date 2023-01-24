@@ -1,11 +1,11 @@
 import javax.swing.*;
 
 public class FormularioUno {
-    private JTextField textField1;
-    private JTextField textField2;
-    private JLabel Titutlo;
-    private JButton button1;
-    private JButton button2;
+    private JTextField Texto;
+    private JTextField Numero;
+    private JLabel Titulo;
+    private JButton irAlFormulario2Button;
+    private JButton abrirFormulario3Button;
     private JPanel Formulario1;
 
     public static void main(String[] args) {
