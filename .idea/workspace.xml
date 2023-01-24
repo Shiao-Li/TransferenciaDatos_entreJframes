@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d43c9b7-1b8f-4e4c-b435-fc6afdb79210" name="Changes" comment="3 formularios">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_1_2023_11_33__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_1_2023_11_33__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_1_2023_11_39__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_1_2023_11_39__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Formulario1.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Formulario1.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Formulario1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Formulario1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Formulario3.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Formulario3.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Formulario2.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Formulario2.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Formulario3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Formulario3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/formulario2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Formulario2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/SHIAO-LITECH/Documents/IdeaProjects/RegistroProductos",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -51,9 +54,23 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Formulario3">
+  <component name="RunManager" selected="Application.Formulario1">
+    <configuration name="Form1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Form1" />
+      <module name="TransferenciaDatos_entreJframes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Formulario1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Formulario1" />
+      <module name="TransferenciaDatos_entreJframes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Formulario2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Formulario2" />
       <module name="TransferenciaDatos_entreJframes" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,18 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="formulario2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="formulario2" />
-      <module name="TransferenciaDatos_entreJframes" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Formulario3" />
-        <item itemvalue="Application.formulario2" />
         <item itemvalue="Application.Formulario1" />
+        <item itemvalue="Application.Form1" />
+        <item itemvalue="Application.Formulario3" />
+        <item itemvalue="Application.Formulario2" />
       </list>
     </recent_temporary>
   </component>
@@ -90,6 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674575803099</updated>
       <workItem from="1674575804360" duration="1945000" />
+      <workItem from="1674594636538" duration="6745000" />
     </task>
     <task id="LOCAL-00001" summary="Primer formulario">
       <created>1674576772465</created>
