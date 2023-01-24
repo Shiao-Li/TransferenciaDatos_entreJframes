@@ -16,6 +16,5 @@ public class FormularioUno {
         frame1.setSize(300, 300);
         frame1.setLocationRelativeTo(null);
         frame1.setVisible(true);
-
     }
 }
