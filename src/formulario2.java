@@ -10,10 +10,12 @@ public class formulario2 {
     private JLabel texto2;
 
     public static void main(String[] arg){
-        JFrame frame = new JFrame("x1");
+        JFrame frame = new JFrame("Frame 2");
         frame.setContentPane(new formulario2().panel2);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.pack();
+        frame.setSize(300, 300);
+        frame.setLocationRelativeTo(null);
         frame.setVisible(true);
     }
 }

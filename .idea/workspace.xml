@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d43c9b7-1b8f-4e4c-b435-fc6afdb79210" name="Changes" comment="frame actualizado">
-      <change afterPath="$PROJECT_DIR$/src/Formulario1.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Formulario1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_1_2023_11_33__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_1_2023_11_33__Changes_.xml" afterDir="false" />
+    <list default="true" id="2d43c9b7-1b8f-4e4c-b435-fc6afdb79210" name="Changes" comment="3 formularios">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FormularioUno.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FormularioUno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Formulario1.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Formulario1.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Formulario1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Formulario1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Formulario3.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Formulario3.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Formulario3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Formulario3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +51,36 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Formulario3">
+    <configuration name="Formulario1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Formulario1" />
+      <module name="TransferenciaDatos_entreJframes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Formulario3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Formulario3" />
+      <module name="TransferenciaDatos_entreJframes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="formulario2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="formulario2" />
+      <module name="TransferenciaDatos_entreJframes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Formulario3" />
+        <item itemvalue="Application.formulario2" />
+        <item itemvalue="Application.Formulario1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -83,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674577231359</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="3 formularios">
+      <created>1674579051486</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674579051486</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +129,7 @@
     <MESSAGE value="Primer formulario" />
     <MESSAGE value="clase principal" />
     <MESSAGE value="frame actualizado" />
-    <option name="LAST_COMMIT_MESSAGE" value="frame actualizado" />
+    <MESSAGE value="3 formularios" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 formularios" />
   </component>
 </project>
