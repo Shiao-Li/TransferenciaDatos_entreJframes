@@ -2,6 +2,10 @@
 ### 1. Shiao Santillan
 ### 2. Santillan Erick
 
+# Tiktok de la actividad:
+https://www.tiktok.com/@stalinestrada0/video/7192436171736108294
+
+
 #### Creacion de 3 formularios 
 ![image](https://user-images.githubusercontent.com/95731527/214475801-3e59c76b-9a75-4313-a435-a134caf4b8f1.png)
 ![image](https://user-images.githubusercontent.com/95731527/214475938-c51b4948-a0f7-43d0-a846-84c12b4438fc.png)
