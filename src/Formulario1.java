@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class Formulario1 extends JFrame {
+public class Formulario1 extends JFrame { //Clase principal donde se implementa las acciones del los formularios
     public JTextField texto1;
     public JTextField Numeros1;
     public JButton irAlFormulario2Button;
@@ -18,7 +18,7 @@ public class Formulario1 extends JFrame {
         irAlFormulario2Button.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                JFrame frame2 = new JFrame("Frame 2");
+                JFrame frame2 = new JFrame("Frame 2"); //Creaccion de un objeto que nos ayudara a utilizar las instancias del formulario 2
                 Formulario2 f2 = new Formulario2();
 
                 f2.setDato1(texto1.getText(), Integer.parseInt(Numeros1.getText()));
@@ -35,7 +35,7 @@ public class Formulario1 extends JFrame {
         abrirElFormulario3Button.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                JFrame frame3 = new JFrame("Frame 3");
+                JFrame frame3 = new JFrame("Frame 3"); // creacion de un objeto el cual nos ayudara a utilizar las instancias del formulario 3
                 Formulario3 f3 = new Formulario3();
 
                 f3.setDato2(texto1.getText(), Integer.parseInt(texto1.getText()));
