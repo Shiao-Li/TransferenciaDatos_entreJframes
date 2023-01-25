@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d43c9b7-1b8f-4e4c-b435-fc6afdb79210" name="Changes" comment="3 formularios">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_1_2023_11_33__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_1_2023_11_33__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_1_2023_11_39__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_1_2023_11_39__Changes_.xml" afterDir="false" />
+    <list default="true" id="2d43c9b7-1b8f-4e4c-b435-fc6afdb79210" name="Changes" comment="Navegacion entre Formularios">
+      <change afterPath="$PROJECT_DIR$/src/ModeloTransferencia.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Formulario1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Formulario1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Formulario2.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Formulario2.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Formulario2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Formulario2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Formulario3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Formulario3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/formulario2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Formulario2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674575803099</updated>
       <workItem from="1674575804360" duration="1945000" />
-      <workItem from="1674594636538" duration="6745000" />
+      <workItem from="1674594636538" duration="12913000" />
     </task>
     <task id="LOCAL-00001" summary="Primer formulario">
       <created>1674576772465</created>
@@ -131,17 +129,36 @@
       <option name="project" value="LOCAL" />
       <updated>1674579051486</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Navegacion entre Formularios">
+      <created>1674604735718</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674604735718</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primer formulario" />
     <MESSAGE value="clase principal" />
     <MESSAGE value="frame actualizado" />
     <MESSAGE value="3 formularios" />
-    <option name="LAST_COMMIT_MESSAGE" value="3 formularios" />
+    <MESSAGE value="Navegacion entre Formularios" />
+    <option name="LAST_COMMIT_MESSAGE" value="Navegacion entre Formularios" />
   </component>
 </project>
